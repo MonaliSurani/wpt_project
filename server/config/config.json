@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "monali",
+    "password": "monali123",
+    "database": "projectlis",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "monali",
+    "password": "monali123",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "monali",
+    "password": "monali123",
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
